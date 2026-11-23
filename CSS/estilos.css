@@ -1,0 +1,75 @@
+/* ESTILO GENERAL DE LA PAGINA*/
+body{
+    font-family: Arial, sans-serif;
+    background-color:#e4c0c0;
+    color: #a40b0b;
+    margin:0;
+}
+
+/*CABECERA */
+header{
+    background-color: #5c4d9d;
+    color: white;
+    text-align:center;
+    padding: 25px;
+}
+
+/*ENLACES DEL MENU*/
+nav a{
+    color:white;
+    margin: 10px;
+    text-decoration: none;
+}
+
+/*SECCIONES */
+section {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #dddddd
+}
+
+/* TITULOS*/
+h2{
+    color: #5c4d9d;
+}
+
+/*PROYECTOS */
+article {
+    background-color: #eeeeff;
+    padding: 15 px;
+    margin-buttom: 15px;
+}
+
+/*ENLACES DE CONTENIDO */
+main a{
+    color: #4b3b93
+}
+
+/* PIE DE PAGINA */
+footer{
+    background-color: #333333;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+.habilidad {
+    text-align: center;
+}
+
+.tarjeta{
+    display:inline-block;
+    vertical-align:top;
+    text-align:left;
+    background-color: rgb(221,138,207);
+    border: 1px solid #ffffff;
+    border: radius 5px;
+    width: 300px;
+    max-width:300;
+    min-height: 150px;
+    padding: 50px;
+    margin: 50px;
+
+
+}
